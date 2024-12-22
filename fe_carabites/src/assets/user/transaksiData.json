@@ -1,0 +1,209 @@
+[
+    {
+        "username": "irzadzulhika",
+        "image_url": "https://i.etsystatic.com/isla/c99b5d/60995380/isla_500x500.60995380_7htk44zi.jpg?version=0",
+        "name": "Irza Dzulhika",
+        "password": "irzadzulhika",
+        "location": "Malang, Indonesia",
+        "email": "irza@example.id",
+        "phone_number": "081234567890",
+        "transaksi": [
+            {
+                "id": 2,
+                "product": "Burger Big Mac",
+                "price": 50000,
+                "quantity": 2,
+                "total": 100000,
+                "status": "Pembayaran Diterima",
+                "date": "2021-08-01"
+            },
+            {
+                "id": 4,
+                "product": "Pizza Margherita",
+                "price": 80000,
+                "quantity": 1,
+                "total": 80000,
+                "status": "Menunggu Pembayaran",
+                "date": "2021-08-10"
+            }
+        ]
+    },
+    {
+        "username": "budiaman",
+        "image_url": "https://i.etsystatic.com/isla/c99b5d/60995380/isla_500x500.60995380_7htk44zi.jpg?version=0",
+        "name": "Budi Aman",
+        "password": "budiaman",
+        "location": "Malang, Indonesia",
+        "email": "budi@example.id",
+        "phone_number": "081234567891",
+        "transaksi": [
+            {
+                "id": 3,
+                "product": "Burger Big Mac",
+                "price": 50000,
+                "quantity": 2,
+                "total": 100000,
+                "status": "Pembayaran Diterima",
+                "date": "2021-08-01"
+            },
+            {
+                "id": 5,
+                "product": "Pasta Carbonara",
+                "price": 60000,
+                "quantity": 3,
+                "total": 180000,
+                "status": "Pembayaran Diterima",
+                "date": "2021-09-15"
+            }
+        ]
+    },
+    {
+        "username": "susanadewi",
+        "image_url": "https://i.etsystatic.com/isla/c99b5d/60995380/isla_500x500.60995380_7htk44zi.jpg?version=0",
+        "name": "Susana Dewi",
+        "password": "susanadewi",
+        "location": "Yogyakarta, Indonesia",
+        "email": "susana@example.id",
+        "phone_number": "081234567892",
+        "transaksi": [
+            {
+                "id": 6,
+                "product": "Taco Mexicano",
+                "price": 35000,
+                "quantity": 5,
+                "total": 175000,
+                "status": "Pembayaran Diterima",
+                "date": "2021-09-20"
+            }
+        ]
+    },
+    {
+        "username": "andrisetiawan",
+        "image_url": "https://i.etsystatic.com/isla/c99b5d/60995380/isla_500x500.60995380_7htk44zi.jpg?version=0",
+        "name": "Andri Setiawan",
+        "password": "andrisetiawan",
+        "location": "Jakarta, Indonesia",
+        "email": "andri@example.id",
+        "phone_number": "081234567893",
+        "transaksi": [
+            {
+                "id": 7,
+                "product": "Sushi Roll",
+                "price": 90000,
+                "quantity": 3,
+                "total": 270000,
+                "status": "Pembayaran Diterima",
+                "date": "2021-09-21"
+            },
+            {
+                "id": 8,
+                "product": "Ramen Teriyaki",
+                "price": 75000,
+                "quantity": 2,
+                "total": 150000,
+                "status": "Menunggu Pembayaran",
+                "date": "2021-09-25"
+            }
+        ]
+    },
+    {
+        "username": "vannychristiawan",
+        "image_url": "https://i.etsystatic.com/isla/c99b5d/60995380/isla_500x500.60995380_7htk44zi.jpg?version=0",
+        "name": "Vanny Christiawan",
+        "password": "vannychristiawan",
+        "location": "Bandung, Indonesia",
+        "email": "vanny@example.id",
+        "phone_number": "081234567894",
+        "transaksi": [
+            {
+                "id": 9,
+                "product": "Dim Sum",
+                "price": 40000,
+                "quantity": 4,
+                "total": 160000,
+                "status": "Pembayaran Diterima",
+                "date": "2021-10-01"
+            }
+        ]
+    },
+    {
+        "username": "mariharlina",
+        "image_url": "https://i.etsystatic.com/isla/c99b5d/60995380/isla_500x500.60995380_7htk44zi.jpg?version=0",
+        "name": "Mari Harlina",
+        "password": "mariharlina",
+        "location": "Surabaya, Indonesia",
+        "email": "mari@example.id",
+        "phone_number": "081234567895",
+        "transaksi": [
+            {
+                "id": 10,
+                "product": "Kue Cubir",
+                "price": 15000,
+                "quantity": 10,
+                "total": 150000,
+                "status": "Pembayaran Diterima",
+                "date": "2021-10-10"
+            }
+        ]
+    },
+    {
+        "username": "sriwulandari",
+        "image_url": "https://i.etsystatic.com/isla/c99b5d/60995380/isla_500x500.60995380_7htk44zi.jpg?version=0",
+        "name": "Sri Wulandari",
+        "password": "sriwulandari",
+        "location": "Semarang, Indonesia",
+        "email": "sri@example.id",
+        "phone_number": "081234567896",
+        "transaksi": [
+            {
+                "id": 11,
+                "product": "Nasi Goreng Special",
+                "price": 25000,
+                "quantity": 2,
+                "total": 50000,
+                "status": "Pembayaran Diterima",
+                "date": "2021-10-15"
+            }
+        ]
+    },
+    {
+        "username": "rudianto",
+        "image_url": "https://i.etsystatic.com/isla/c99b5d/60995380/isla_500x500.60995380_7htk44zi.jpg?version=0",
+        "name": "Rudi Anto",
+        "password": "rudianto",
+        "location": "Medan, Indonesia",
+        "email": "rudi@example.id",
+        "phone_number": "081234567897",
+        "transaksi": [
+            {
+                "id": 12,
+                "product": "Mie Ayam",
+                "price": 25000,
+                "quantity": 3,
+                "total": 75000,
+                "status": "Pembayaran Diterima",
+                "date": "2021-10-20"
+            }
+        ]
+    },
+    {
+        "username": "kevinpratama",
+        "image_url": "https://i.etsystatic.com/isla/c99b5d/60995380/isla_500x500.60995380_7htk44zi.jpg?version=0",
+        "name": "Kevin Pratama",
+        "password": "kevinpratama",
+        "location": "Denpasar, Indonesia",
+        "email": "kevin@example.id",
+        "phone_number": "081234567898",
+        "transaksi": [
+            {
+                "id": 13,
+                "product": "Nasi Campur",
+                "price": 40000,
+                "quantity": 2,
+                "total": 80000,
+                "status": "Pembayaran Diterima",
+                "date": "2021-10-25"
+            }
+        ]
+    }
+]

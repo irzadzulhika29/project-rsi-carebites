@@ -1,0 +1,16 @@
+{
+    "username": "oyibuttermilk",
+    "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPVGm-5kkzIay5BqY15QVvFRwKVWFNTNSVqg&s",
+    "image_url": "https://example.com/image10.jpg",
+    "name": "Oyi Buttermilk Chicken",
+    "password": "oyibuttermilk123",
+    "location": "Malang, Indonesia",
+    "address": "Jl. Gajayana No. 88, Malang",
+    "email": "oyibuttermilk@example.id",
+    "phone_number": "081923456789",
+    "role": "mitra",
+    "id": 1,
+    "status": "pending",
+    "nomor_rekening" : "235341241223",
+    "deskripsi" : "Oyi Buttermilk Chicken adalah restoran cepat saji di Malang yang menyajikan berbagai menu berbasis ayam dengan cita rasa khas buttermilk. Restoran ini menawarkan beragam hidangan seperti nasi ayam geprek, rice box dengan fillet ayam juicy, serta berbagai pilihan saus dan minuman. "
+}
